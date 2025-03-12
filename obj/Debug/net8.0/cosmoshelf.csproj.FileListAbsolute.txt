@@ -1,0 +1,14 @@
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/bin/Debug/net8.0/cosmoshelf
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/bin/Debug/net8.0/cosmoshelf.deps.json
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/bin/Debug/net8.0/cosmoshelf.runtimeconfig.json
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/bin/Debug/net8.0/cosmoshelf.dll
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/bin/Debug/net8.0/cosmoshelf.pdb
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/obj/Debug/net8.0/cosmoshelf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/obj/Debug/net8.0/cosmoshelf.AssemblyInfoInputs.cache
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/obj/Debug/net8.0/cosmoshelf.AssemblyInfo.cs
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/obj/Debug/net8.0/cosmoshelf.csproj.CoreCompileInputs.cache
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/obj/Debug/net8.0/cosmoshelf.dll
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/obj/Debug/net8.0/refint/cosmoshelf.dll
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/obj/Debug/net8.0/cosmoshelf.pdb
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/obj/Debug/net8.0/cosmoshelf.genruntimeconfig.cache
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/obj/Debug/net8.0/ref/cosmoshelf.dll
