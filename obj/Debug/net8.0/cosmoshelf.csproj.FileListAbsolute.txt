@@ -12,3 +12,4 @@
 /Users/anonim/Desktop/cosmoshelf/cosmoshelf/obj/Debug/net8.0/cosmoshelf.pdb
 /Users/anonim/Desktop/cosmoshelf/cosmoshelf/obj/Debug/net8.0/cosmoshelf.genruntimeconfig.cache
 /Users/anonim/Desktop/cosmoshelf/cosmoshelf/obj/Debug/net8.0/ref/cosmoshelf.dll
+/Users/anonim/Desktop/cosmoshelf/cosmoshelf/obj/Debug/net8.0/cosmoshelf.sourcelink.json
