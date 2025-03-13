@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cosmoshelf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a02dacd8430c50850a5ace6281562453020a7854")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e51a6bda8c831d88c0f40f88df2c4cfa18f2e822")]
 [assembly: System.Reflection.AssemblyProductAttribute("cosmoshelf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cosmoshelf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
